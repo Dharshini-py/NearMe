@@ -47,11 +47,11 @@ map.html
     <img src="chennai.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="Express Avenue" title="Express Avenue" href="mall.html" coords="1379,376,1566,452" shape="rect">
-    <area target="" alt="Marina Beach" title="Marina Beach" href="Marina.html" coords="1682,527,80" shape="circle">
-    <area target="" alt="Semmozhi Ponga" title="Semmozhi Ponga" href="park.html" coords="1133,451,1276,590" shape="rect">
-    <area target="" alt="Anna Nagar" title="Anna Nagar" href="annanagar.html" coords="644,26,857,174" shape="rect">
-    <area target="" alt="Rohini Silver Screens" title="Rohini Silver Screens" href="rohini.html" coords="558,182,773,231" shape="rect">
+    <area target="" alt="Marina beach" title="Marina beach" href="Marina.html" coords="1571,473,1801,596" shape="rect">
+    <area target="" alt="Semmozhi Poonga" title="Semmozhi Poonga" href="park.html" coords="1120,449,1284,604" shape="rect">
+    <area target="" alt="Express Avenue" title="Express Avenue" href="mall.html" coords="1359,356,1608,463" shape="rect">
+    <area target="" alt="Anna Nagar" title="Anna Nagar" href="annanagar.html" coords="630,34,912,182" shape="rect">
+    <area target="" alt="Rohini Silver screens" title="Rohini Silver screens" href="rohini.html" coords="544,190,820,244" shape="rect">
 </map>
     </center>
 </body>

@@ -178,12 +178,15 @@ rohini.html
         
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/2b702cb8-2987-45c0-a8f3-be80d599d6e6" />
 
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/d649c4e1-c781-42af-92b0-62addab86968" />
 
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/820cc746-84fc-41de-99ff-15e0d13f0c6f" />
 
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/5d4dc455-4e16-4b43-94d2-469199c518d0" />
 
-
-
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6d7daf50-b6d4-400f-be64-c0fc3d985c6b" />
 
 
 ## RESULT

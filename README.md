@@ -188,6 +188,7 @@ rohini.html
 
 <img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6d7daf50-b6d4-400f-be64-c0fc3d985c6b" />
 
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/f840580f-90ba-4eae-9522-9273df4f82e8" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
